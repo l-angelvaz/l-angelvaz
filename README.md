@@ -30,11 +30,11 @@ utilizando tecnologías como **React Native**, **.NET**, y **Clean Architecture*
 
 ### 🚀 Proyectos Destacados
 
-- 🔗 [FutAmUyAPI][(https://github.com/l-angelvaz/testProyectoIntegrador))]: API de consultas la para gestión de equipos y partidos de fútbol amateur.
-- 🔗 [FutAmUyFRONT][(https://github.com/l-angelvaz/testProyectoIntegradorFE))]: Frontend para la para gestión de equipos y partidos de fútbol amateur.
+- 🔗 [FutAmUyAPI](https://github.com/l-angelvaz/testProyectoIntegrador): API de consultas la para gestión de equipos y partidos de fútbol amateur.
+- 🔗 [FutAmUyFRONT](https://github.com/l-angelvaz/testProyectoIntegradorFE): Frontend para la para gestión de equipos y partidos de fútbol amateur.
 ---
 
 ### 📬 Redes y contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l-angelvaz/)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:angelvs0123@gmail.com)
+[![Correo](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:angelvs0123@gmail.com)
