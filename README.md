@@ -23,14 +23,15 @@ utilizando tecnologías como **React Native**, **.NET**, y **Clean Architecture*
 ---
 
 ### 📊 GitHub Estadisticas
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=l-angelvaz&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-angelvaz&layout=compact&theme=radical)
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=l-angelvaz&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-angelvaz&layout=compact&theme=radical)
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-- 🔗 [FutAmUyAPI](https://github.com/l-angelvaz/testProyectoIntegrador): API de consultas la para gestión de equipos y partidos de fútbol amateur.
-- 🔗 [FutAmUyFRONT](https://github.com/l-angelvaz/testProyectoIntegradorFE): Frontend para la para gestión de equipos y partidos de fútbol amateur.
+- 🔗 [FutAmUy API](https://github.com/l-angelvaz/testProyectoIntegrador): API de consultas la para gestión de equipos y partidos de fútbol amateur.
+- 🔗 [FutAmUy APP](https://github.com/l-angelvaz/testProyectoIntegradorFE): APP para la para gestión de equipos y partidos de fútbol amateur.
 ---
 
 ### 📬 Redes y contacto
