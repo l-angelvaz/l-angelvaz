@@ -24,7 +24,7 @@ utilizando tecnologías como **React Native**, **.NET**, y **Clean Architecture*
 
 ### 📊 GitHub Stats
 
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-username&show_icons=true&theme=radical)
+![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-angelvaz&show_icons=true&theme=radical)
 
 ---
 
