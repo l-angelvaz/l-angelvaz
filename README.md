@@ -25,7 +25,7 @@ utilizando tecnologías como **React Native**, **.NET**, y **Clean Architecture*
 ### 📊 GitHub Stats
 
 ![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-angelvaz&show_icons=true&theme=radical)
-
+(https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=l-angelvaz&layout=compact&langs_count=8&theme=algolia)
 ---
 
 ### 🚀 Proyectos Destacados
