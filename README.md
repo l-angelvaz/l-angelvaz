@@ -3,11 +3,11 @@
 
 ---
 
-🌱 Actualmente estoy trabajando en mi proyecto final para la carrera de Analista en Tecnologias de la Información de ORT Uruguay
+🌱 Actualmente estoy trabajando con dos compañeros de equipo en el proyecto final para la carrera de Analista en Tecnologias de la Información de ORT Uruguay
 utilizando tecnologías como **React Native**, **.NET**, y **Clean Architecture**  
-💪 Mi proyecto consiste en lograr una app híbrida que funcione tanto en **Android** como en **Web**  
+💪 Nuestro proyecto consiste en lograr una app híbrida que funcione tanto en **Android** como en **Web**  
 🎯 Objetivo actual: Mejorar mis habilidades como **desarrollador fullstack**  
-📫 Contactame: angelvs0123@gmail.com  
+📫 Contacto: angelvs0123@gmail.com  
 📍 Montevideo, Uruguay
 
 ---
@@ -34,7 +34,7 @@ utilizando tecnologías como **React Native**, **.NET**, y **Clean Architecture*
 - 🔗 [FutAmUy APP](https://github.com/l-angelvaz/testProyectoIntegradorFE): APP para la para gestión de equipos y partidos de fútbol amateur.
 ---
 
-### 📬 Redes y contacto
+### 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l-angelvaz/)
 [![Correo](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:angelvs0123@gmail.com)
