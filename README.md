@@ -23,9 +23,9 @@ utilizando tecnologías como **React Native**, **.NET**, y **Clean Architecture*
 ---
 
 ### 📊 GitHub Estadisticas
-
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=l-angelvaz&show_icons=true&theme=radical)
-![Lenguajes](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=l-angelvaz&layout=compact&langs_count=8&theme=algolia)
+### 🧪 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-username&layout=compact&theme=radical)
 
 ---
 
