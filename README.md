@@ -17,6 +17,8 @@ utilizando tecnologías como **React Native**, **.NET**, y **Clean Architecture*
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
@@ -24,7 +26,7 @@ utilizando tecnologías como **React Native**, **.NET**, y **Clean Architecture*
 
 ### 📊 GitHub Estadisticas
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=l-angelvaz&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-angelvaz&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=l-angelvaz&layout=compact&theme=radical)
 
 ---
 
